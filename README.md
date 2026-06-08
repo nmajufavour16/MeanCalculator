@@ -1,0 +1,2 @@
+## Mean/Average Calculator for 5 numbers
+Write a code to do the following: the code takes in five numbers A, B, C, D and E. It then calculates the mean of the five numbers and gives the message "The mean of A, B, C, D and E is 'mean', " where 'mean' is the mean of the five numbers.
